@@ -1,2 +1,3 @@
 # hello-world
-Temporary repository in order to learn how to use git
+Temporary repository in order to learn how to use git/github
+
